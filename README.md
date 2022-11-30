@@ -1,5 +1,6 @@
 # 💫 About Me:
 1337  |  Student <br>Working on Born2beroot
+<br><br>
 [![azari's 42 stats](https://badge.mediaplus.ma/black/azari)](https://github.com/oakoudad/badge42)
 
 
