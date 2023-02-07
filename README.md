@@ -1,5 +1,5 @@
 # 💫 About Me:
-1337  |  Student <br>Working on pipex
+1337  |  Student <br>Working on 42-fractol
 <br><br>
 [![azari's 42 stats](https://badge.mediaplus.ma/black/azari)](https://github.com/oakoudad/badge42)
 
