@@ -1,9 +1,14 @@
 ## 💫 About Me:
 🎓 1337 / 42 Network Student 
 <br><br>
-🔥 Currently Studying: Java (Springboot) -- C -- Shell .
-<br><br>
-😜 Fun Fact: the first computer bug was an actual insect! In 1947, a moth was found inside the Harvard Mark II computer, causing a malfunction. The term "debugging" was coined to refer to the process of removing errors or bugs from computer software.
+⛳ Currently Working on : 42_Cursus
+<br>
+🔥 Currently Studying : Java (Springboot) -- C -- Shell .
+<br>
+😜 Fun Fact : the first computer bug was an actual insect! In 1947, a moth
+               was found inside the Harvard Mark II computer, causing a malfunction.
+               The term "debugging" was coined to refer to the process of removing errors
+               or bugs from computer software.
 
 <br><br>
 [![azari's 42 stats](https://badge.mediaplus.ma/black/azari)](https://github.com/oakoudad/badge42)
